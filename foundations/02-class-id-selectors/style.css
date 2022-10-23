@@ -4,6 +4,16 @@ font-family: Verdana, Dejavu Sans, sans-serif;
 }
 
 #second-req {
-    color: #0000ff;
+    color: hsl(240, 100%, 50%);
     font-size: 24px;
+}
+
+.third-element {
+    font-size: 24px;
+}
+
+#last-req {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
 }
